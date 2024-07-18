@@ -1,0 +1,28 @@
+<project xmlns="https://maven.apache.org/POM/4.0.0" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>hkust</groupId>
+  <artifactId>assertionFinder</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+	  <dependency>
+	    <groupId>fr.inria.gforge.spoon</groupId>
+	    <artifactId>spoon-core</artifactId>
+	    <version>11.0.0</version>
+	</dependency>
+	  <dependency>
+	  	<groupId>junit</groupId>
+	  	<artifactId>junit</artifactId>
+	  	<version>4.13.2</version>
+	  </dependency>
+	  <dependency>
+	    <groupId>org.slf4j</groupId>
+	    <artifactId>slf4j-api</artifactId>
+	    <version>1.7.5</version>
+	</dependency>
+	<dependency>
+	    <groupId>org.slf4j</groupId>
+	    <artifactId>slf4j-log4j12</artifactId>
+	    <version>1.7.5</version>
+	</dependency>
+  </dependencies>
+</project>

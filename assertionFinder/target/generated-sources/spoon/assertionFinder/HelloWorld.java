@@ -1,0 +1,6 @@
+package assertionFinder;
+public class HelloWorld {
+    public static void main(java.lang.String[] args) {
+        java.lang.System.out.println("My First Java Program.");
+    }
+}

@@ -1,0 +1,13 @@
+.env
+/bin/
+/repos/
+*.class
+*.jar
+*.war
+*.ear
+*.pyc
+*.pyo
+__pycache__/
+*.egg-info/
+dist/
+build/
